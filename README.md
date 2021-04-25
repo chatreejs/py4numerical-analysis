@@ -6,9 +6,10 @@ All code and Jupyter Notebooks come without representations or warranties, to th
 
 ## Table of Contents
 
-* [Bisection]()
+* [Bisection](https://github.com/chatreejs/py4numerical-analysis/blob/master/01-solve-equation.ipynb)
 * [Least square](https://github.com/chatreejs/py4numerical-analysis/blob/master/02-least-squares.ipynb)
 * [Interpolation](https://github.com/chatreejs/py4numerical-analysis/blob/master/03-Interpolation.ipynb)
+* [Optimization](https://github.com/chatreejs/py4numerical-analysis/blob/master/04-optimization.ipynb)
 
 # Reference
 - Timothy Sauer, Numerical Analysis 2ed
